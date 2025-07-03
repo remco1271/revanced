@@ -53,6 +53,11 @@ dpi = "120-640dpi"
 
 [Reddit]
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
+build-mode = "module"
+
+[Instagram]
+apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
+build-mode = "module"
 
 [Reddit-Extended]
 patches-source = "inotia00/revanced-patches"
